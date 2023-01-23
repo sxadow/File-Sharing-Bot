@@ -1,7 +1,7 @@
 # --- For-Bot-Working --------- #
 git+https://github.com/sxadow/fuku
 git+https://github.com/sxadow/fuku2
-pyromod==1.5
+git+https://github.com/sxadow/fuku3
 # --- For-Database ------------ #
 pymongo
 dnspython
