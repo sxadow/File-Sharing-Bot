@@ -1,6 +1,6 @@
 # --- For-Bot-Working --------- #
 git+https://github.com/sxadow/fuku
-TgCrypto
+git+https://github.com/sxadow/fuku2
 pyromod==1.5
 # --- For-Database ------------ #
 pymongo
