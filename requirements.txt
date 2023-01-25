@@ -1,9 +1,1 @@
-# --- For-Bot-Working --------- #
-git+https://github.com/sxadow/fuku
-git+https://github.com/sxadow/fuku2
-git+https://github.com/sxadow/fuku3
-# --- For-Database ------------ #
-pymongo
-dnspython
-# --- For-Web-Response ------- #
-https://github.com/sxadow/fuku4
+
